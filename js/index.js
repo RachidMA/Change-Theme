@@ -1,3 +1,5 @@
+
+
 $('#change-color').on('click',function(){
     $text = $("button[id='change-color']").text()
     if ($text === 'Dark Theme'){
@@ -10,3 +12,15 @@ $('#change-color').on('click',function(){
     }
     
 });
+
+
+
+
+
+
+
+
+
+
+
+
